@@ -1,6 +1,6 @@
 # CAR-RENT
-- **url**:[https://vasanthcar-rent-project.netlify.app/](https://vasanthcar-rent-project.netlify.app/);
-WEB PROJECT DESCRIPTION
+- **url** : [https://vasanthcar-rent-project.netlify.app/](https://vasanthcar-rent-project.netlify.app/);
+## WEB PROJECT DESCRIPTION
 
 Project Title
 Car Rent Web Application
